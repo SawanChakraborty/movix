@@ -18,5 +18,5 @@ const Home = () => {
 import "./style.scss"
 import Trending from './trending/Trending'
 import Popular from './popular/Popular'
-import TopRated from './topRated/topRated'
+import TopRated from './topRated/TopRated'
 export default Home
